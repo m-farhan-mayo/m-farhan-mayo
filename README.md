@@ -14,7 +14,7 @@ Data Engineer with hands-on experience designing and deploying scalable **ETL/EL
 
 ---
 
-### 🛠 Technical Arsenal
+### 🛠 Technical Skills
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -22,6 +22,7 @@ Data Engineer with hands-on experience designing and deploying scalable **ETL/EL
 | **Orchestration** | Apache Spark, Airflow, DBT, Kafka |
 | **Databases** | Snowflake, MySQL, Data Warehouse, Postgres, Delta Lake |
 | **DevOps & BI** | Git, GitHub, Docker, Power BI  |
+| **DevOps & BI** |  LangChain, FAISS, Sentence-Transformers, RAG Pipeline Development, Semantic Search, Prompt Engineering |
 
 ---
 
